@@ -1,0 +1,3 @@
+- MVC 6 (vNext)
+  - Har integrer Web API
+  - Slår sammen MVC Web API og Web Pages
