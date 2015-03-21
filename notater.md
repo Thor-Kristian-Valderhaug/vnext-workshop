@@ -7,3 +7,6 @@
   - Runs on IIS or self hosted
   - Based on new request pipeline
   - Cloud optimized
+
+##Mulige oppgaver##
+  - Bytte mellom nuget Pakke og utsjekket kode
