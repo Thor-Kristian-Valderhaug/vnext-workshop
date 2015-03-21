@@ -3,6 +3,7 @@
   - Slår sammen MVC Web API og Web Pages
   - Et sett med konsepter
   - Web UI og Web APIs i samme controller
+    - Ingen Baseklasse for kontroller
   - Built DI first
   - Runs on IIS or self hosted
   - Based on new request pipeline
@@ -10,3 +11,5 @@
 
 ##Mulige oppgaver##
   - Bytte mellom nuget Pakke og utsjekket kode
+  - Ny? konfigurasjon
+  - 
